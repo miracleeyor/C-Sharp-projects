@@ -1,6 +1,6 @@
 ﻿using System;
 
-public static class
+public static class project
 {
     public static void Main()
     {
