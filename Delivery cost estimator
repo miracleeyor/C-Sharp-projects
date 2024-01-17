@@ -1,5 +1,5 @@
 using System;
-public static class 
+public static class var
 {
     public static void Main()
     {
